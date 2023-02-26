@@ -81,7 +81,7 @@ header, footer {
 
 @font-face {
     font-family: montserrat;
-    src: url(/fonts/montserrat-regular.ttf) format('truetype');
+    src: url(../fonts/montserrat-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 
